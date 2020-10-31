@@ -1,0 +1,6 @@
+[submodule "vendor/microsoft/GSL"]
+	path = vendor/microsoft/GSL
+	url = https://github.com/microsoft/GSL.git
+[submodule "ninja"]
+	path = ninja
+	url = https://github.com/jimon/premake-ninja
